@@ -1,0 +1,10 @@
+export const authWrap = { maxWidth: 420, margin: "40px auto", background: "#fff", border: "1px solid #e2e8f0", borderRadius: 14, padding: 18 };
+export const formBox = { display: "grid", gap: 10 };
+export const input = { border: "1px solid #cbd5e1", borderRadius: 10, padding: "10px 12px" };
+export const btnPrimary = { background: "#6366f1", color: "#fff", border: "none", borderRadius: 10, padding: "8px 12px", cursor: "pointer", textDecoration: "none" };
+export const btnGhost = { border: "1px solid #cbd5e1", color: "#111827", padding: "6px 12px", borderRadius: 10, background: "white", cursor: "pointer", textDecoration: "none" };
+export const columnBox = { minWidth: 300, background: "#e2e8f0", padding: 10, borderRadius: 14 };
+export const card = { background: "#fff", border: "1px solid #e2e8f0", borderRadius: 12, padding: 10, cursor: "grab" };
+export const iconBtn = { background: "transparent", border: "none", cursor: "pointer" };
+export const modalOverlay = { position: "fixed", inset: 0, background: "rgba(0,0,0,0.3)", display: "grid", placeItems: "center", padding: 16 };
+export const modalBox = { width: "min(560px,90vw)", background: "#fff", borderRadius: 14, padding: 16 };
